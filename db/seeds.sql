@@ -20,5 +20,4 @@ VALUES ("Mike", "Chan", 2, NULL),
        ("Kunal", "Singh", 5, 6),
        ("Malia", "Brown", 6, NULL),
        ("Sarah", "Lourd", 7, 8),
-       ("Tom", "Allen", 8, NULL),
-       ("John", "Doe", NULL, 2);
+       ("Tom", "Allen", 8, NULL);
