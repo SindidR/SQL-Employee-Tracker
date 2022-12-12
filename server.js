@@ -129,3 +129,4 @@ function prompt() {
       //     db.query()
      //   });
         )};
+prompt();
